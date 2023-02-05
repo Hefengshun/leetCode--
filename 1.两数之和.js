@@ -10,8 +10,8 @@
  * @param {number} target
  * @return {number[]}
  */
-var twoSum = function(nums, target) {
-
+var twoSum = function (nums, target) {
+    console.log("更改提交");
 };
 // @lc code=end
 
