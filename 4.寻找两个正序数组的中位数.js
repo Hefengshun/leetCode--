@@ -13,5 +13,5 @@
 var findMedianSortedArrays = function(nums1, nums2) {
 
 };
-// @lc code=end
+// @lc code=end。
 
